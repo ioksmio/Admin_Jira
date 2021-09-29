@@ -9,7 +9,7 @@ they'll have.
 
 | Name               | Role                               |  
 |--------------------|-------------------------------------
-| Site administrator | Was provided to you by your trainer (Jira Login)|
+| Organisation administrator | Was provided to you by your trainer (Jira Login)|
 | Dakota Jones       | Jira administrator                 |
 | Sophie Nguyen      | Development project administrator  | 
 | Luis Beck          |Development project member          |
