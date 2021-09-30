@@ -57,12 +57,8 @@ Nguyen`, the project administrator, and project lead.
 
 > iv. Verify Luis is listed on the page with the new Members role, and Sophie now 
 has two roles in the project - Administrators and Members. 
-
-> v. Click `Add people` again. 
-
-> vi. Cancel to close the dialog. 
-* **Note**: You can enter an email address. If the site administrator set Existing users can send invitations to anyone to On in the Site access site administration page, then the project administrator can invite users to join the site and access the project. Even if this setting is Off, the project administrator can invite users in any approved domains here. 
-4. Optionally, verify project roles and permissions: 
+ 
+4. Verify project roles and permissions: 
 
 > a. Return to Dakota's window or log out and log back in as the Jira administrator, 
 `Dakota Jones`. 

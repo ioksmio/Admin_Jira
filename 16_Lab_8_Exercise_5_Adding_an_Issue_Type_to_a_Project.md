@@ -27,9 +27,12 @@
    scheme for the Planets App project.
 
 This new Document issue type is associated with the:
+
 a. `Software Simplified Workflow for Project PA` - any new issues created using this
 issue type in this project will follow this workflow. This is the one you edited earlier.
+
 b. `Default Field Configuration` - any new issues created using this issue type in this project will use the settings in this field configuration.
+
 c. `PA: Kanban Default Screen Scheme` - any new issues created using this issue type
 in this project will use the screens defined in this scheme.
 
