@@ -62,13 +62,3 @@
 * **Note**: You can use the advanced workflow editor to edit workflows but this is typically done for more complex workflows that are not using the simplified workflow.
 
 > e. Don't make any changes here. Click `Discard Draft` then `Discard`.
-
-> f. Click `Back to project` to return to the project board.
-
-* **Note**: You can also move issues through the workflow by selecting a new status here.
-
-> i. Click `View workflow`.
-
-* **Note**: When you have projects with more than one workflow, this is a quick way to see which workflow an issue is using.
-
-> j. Close the dialog then close the issue view.
