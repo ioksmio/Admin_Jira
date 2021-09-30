@@ -17,6 +17,7 @@ Jira also adds the system-administrators and atlassian-addons-admin groups to ea
 
 
 **Note**: Because this site was updated from Jira Service Desk to Jira Service Management, the default group is still called jira-servicedesk-users. If it was a brand new site, the default group name would be jira-servicemanagement- users.
+
 3. Add global permissions to groups:
 > a. Scroll down to the `Grant Permission` section. 
 
@@ -38,7 +39,7 @@ Jira also adds the system-administrators and atlassian-addons-admin groups to ea
 * **Question**: Which global permission is missing and why?
 * **Answer**: The Administer Jira global permission is missing. The only way to assign groups this global permission is through the Product access site administration page. The site administrator can give another group administration access to Jira on the Administration access tab of the Product access page. Then that group will automatically appear in the list of groups for the Administer Jira global permission on this page.
 
-1. Optionally, verify global permission change:
+4. Optionally, verify global permission change:
 
 > a. Click `Search` and press `Return` on your keyboard. You will see a search page depicted. 
 
