@@ -1,63 +1,74 @@
-##  Lab 8 Exercise 3 Updating the Workflow for a Project
-> The default workflows for project templates are provided to you as a starting point. In many cases, they may be sufficient but often you'll need to modify them to suit your business needs. 
+## Lab 8 Exercise 3 Updating the Workflow for a Project
 
-1. Update the workflow by configuring the board: 
-> a. Click `Back to project` in the project sidebar and view the project's board. 
-* **Note**: Each column on the board represents a status in the workflow - BACKLOG, SELECTED FOR DEVELOPMENT, IN PROGRESS, AND DONE. 
+> The default workflows for project templates are provided to you as a starting point. In many cases, they may be sufficient but often you'll need to modify them to suit your business needs.
 
-> b. Click the three dots on the top right of the page and select `Board settings`. 
-* **Note**: Here you can add, remove, reorder and rename columns (which are based on workflow statuses). Note it indicates this is a simplified workflow so issues can move from any column to any other column. 
+1. Update the workflow by configuring the board:
 
-2. Teams in Space want to remove Selected for Development and add a Review column. 
->a. Click `Columns`. 
+> a. Click `Back to project` in the project sidebar and view the project's board.
 
->b. In the Selected for Development column, click the `Delete icon`. 
+* **Note**: Each column on the board represents a status in the workflow - BACKLOG, SELECTED FOR DEVELOPMENT, IN PROGRESS, AND DONE.
 
->c. In the Unmapped Statuses column, click `X` then `Remove` to delete the SELECTED FOR DEVELOPMENT status from the workflow. 
+> b. Click the three dots on the top right of the page and select `Board settings`.
 
->d. Click `Add column`: 
+* **Note**: Here you can add, remove, reorder and rename columns (which are based on workflow statuses). Note it indicates this is a simplified workflow so issues can move from any column to any other column.
 
->i. Name: `Review` 
+2. Teams in Space want to remove Selected for Development and add a Review column.
 
->ii. Category: `In Progress` 
+> a. Click `Columns`.
 
->iii. Click `Add` 
+> b. In the Selected for Development column, click the `Delete icon`.
 
-* **Note**: The Review column is added along with the REVIEW status (which already exists in Jira). 
+> c. In the Unmapped Statuses column, click `X` then `Remove` to delete the SELECTED FOR DEVELOPMENT status from the workflow.
 
->e. Grab the grey dots at top of the Review column and see how you can move the column. Place it back between In Progress and Done. 
+> d. Click `Add column`:
 
->f. Click `Back to board` and view the new workflow. 
+> i. Name: `Review`
 
->g. `Create a new issue` in the Planets App project: 
+> ii. Category: `In Progress`
 
-> i. Issue type: `Story` 
+> iii. Click `Add`
 
-> ii. Summary: `Test 1` 
+* **Note**: The Review column is added along with the REVIEW status (which already exists in Jira).
 
-> iii. Click `Create` 
+> e. Grab the grey dots at top of the Review column and see how you can move the column. Place it back between In Progress and Done.
 
-> iv. Move the issue around on the board and confirm you can move it from 
-any column to any other column. 
+> f. Click `Back to board` and view the new workflow.
 
-3. Viewing the workflow: 
-> a. Go to project settings and click `Workflows` in the sidebar. 
-* **Note**: In the project's workflow scheme, this workflow applies to all issue types in the project. 
+> g. `Create a new issue` in the Planets App project:
 
-> b. Click `diagram` next to `Software Simplified Workflow for Project`. 
-* **Note**: Here you see a diagrammatic representation of the default workflow for this project. 
+> i. Issue type: `Story`
 
-> c. Close the dialog. 
+> ii. Summary: `Test 1`
 
-> d. Click the `Edit` icon under Actions. 
-* **Note**: You can use the advanced workflow editor to edit workflows but this is typically done for more complex workflows that are not using the simplified workflow. 
+> iii. Click `Create`
 
-> e. Don't make any changes here. Click `Discard Draft` then `Discard`. 
+> iv. Move the issue around on the board and confirm you can move it from
+> any column to any other column.
 
-> f. Click `Back to project` to return to the project board. 
-* **Note**: You can also move issues through the workflow by selecting a new status here. 
+3. Viewing the workflow:
 
-> i. Click `View workflow`. 
-* **Note**: When you have projects with more than one workflow, this is a quick way to see which workflow an issue is using. 
+> a. Go to project settings and click `Workflows` in the sidebar.
+
+* **Note**: In the project's workflow scheme, this workflow applies to all issue types in the project.
+
+> b. Click `diagram` next to `Software Simplified Workflow for Project`.
+
+* **Note**: Here you see a diagrammatic representation of the default workflow for this project.
+
+> c. Close the dialog.
+
+> d. Click the `Edit` icon under Actions.
+
+* **Note**: You can use the advanced workflow editor to edit workflows but this is typically done for more complex workflows that are not using the simplified workflow.
+
+> e. Don't make any changes here. Click `Discard Draft` then `Discard`.
+
+> f. Click `Back to project` to return to the project board.
+
+* **Note**: You can also move issues through the workflow by selecting a new status here.
+
+> i. Click `View workflow`.
+
+* **Note**: When you have projects with more than one workflow, this is a quick way to see which workflow an issue is using.
 
 > j. Close the dialog then close the issue view.

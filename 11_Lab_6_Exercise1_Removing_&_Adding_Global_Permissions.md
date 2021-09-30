@@ -15,7 +15,7 @@ Jira also adds the system-administrators and atlassian-addons-admin groups to ea
 
 > b. In the `Make bulk changes` row, click `Delete` for the default group `jira-software-users`. Click `Delete` again to confirm.
 
-> c. Repeat this step to remove the `jira-servicedesk-users` group from Make bulk changes.
+
 **Note**: Because this site was updated from Jira Service Desk to Jira Service Management, the default group is still called jira-servicedesk-users. If it was a brand new site, the default group name would be jira-servicemanagement- users.
 3. Add global permissions to groups:
 > a. Scroll down to the `Grant Permission` section. 
@@ -31,16 +31,16 @@ Jira also adds the system-administrators and atlassian-addons-admin groups to ea
 
 > d. For Group, select `Development` and click `Add`.
 
-> e. Now you should see the Development group listed but noneof the default product access groups.
+> e. Now you should see the Development group listed.
 * **Note**: New groups are not given any global permissions unless you explicitly add them.
 
 > f. In the Grant permission section, view the permissions you can grant.
 * **Question**: Which global permission is missing and why?
 * **Answer**: The Administer Jira global permission is missing. The only way to assign groups this global permission is through the Product access site administration page. The site administrator can give another group administration access to Jira on the Administration access tab of the Product access page. Then that group will automatically appear in the list of groups for the Administer Jira global permission on this page.
 
-4. Optionally, verify global permission change:
+1. Optionally, verify global permission change:
 
-> a. Click `Search` and press `Return` on your keyboard.
+> a. Click `Search` and press `Return` on your keyboard. You will see a search page depicted. 
 
 > b. On the issue navigator, click the three dots on the top right of the page. You should see an option for `Bulk change`. This confirms Jira administrators have the ability to perform bulk change operations.
 

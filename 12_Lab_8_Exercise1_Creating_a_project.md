@@ -9,39 +9,23 @@ Teams in Space want a Kanban project to manage its development tasks.
 
 > b. In the menu click `Projects` then select `Create project`.
 
-> c. If you see this screen then `follow the instructions in this step`. If you see a different screen, follow the instructions in `step 2`.
+> c. Ensure `Software development` is selected in the sidebar. 
 
-> d. Ensure `Software development` is selected in the sidebar. 
+> d. Select `Kanban`. 
 
-> e. Select `Kanban`. 
+> e. Click `Use template`. 
 
-> f. Click `Use template`. 
+> f. Click `Select a company-managed project`. 
 
-> g. Click `Select a company-managed project`. 
+> g. Name the project `Planets App`. 
 
-> h. Name the project `Planets App`. 
+> h. Leave the key at `PA`. 
 
-> i. Leave the key at `PA`. 
-
-> j. Leave `Share settings with an existing project` unchecked. 
+> i. Leave `Share settings with an existing project` unchecked. 
 
 > k. Click `Create`. 
 
-2. If you see this screen, `follow the instructions in this step`: 
 
-> a. Name the project `Planets App`. 
-
-> b. Leave the key at `PA`. 
-
-> c. Leave `Share settings with an existing project` unchecked. 
-
-> d. If the Kanban template is not already selected, click Change template. 
-
-> e. From the dropdown, select `Software`. 
-
-> f. For the Kanban template, click `Select`.  
-
-> g. Click `Create`.
 * **Note on creating projects:**
 1. The key is used as the prefix of this project's issue keys. For example, your first issue's key will be PA-1. If there are multiple words in the project name, the key will be filled in with the first letter of each of the words in the name. 
 2. You can change the default project key that’s created for you, but if you do, choose a key that’s descriptive and easy to type. Users will often use the issue key to find an issue and you want to make it as easy as possible for them so don't use overly long keys. The key can be changed after project creation, but it's better to start off with a suitable one. 
