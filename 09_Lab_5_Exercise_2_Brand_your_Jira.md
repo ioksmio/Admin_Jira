@@ -14,12 +14,14 @@
 
 > d. Click `Upload Logo`.
 
-> e. Scroll down and for Title, check `Show on dashboard sidebar` and click `Update`.
+> e. Scroll to Title, check `Show on dashboard sidebar` and click `Update`.
 > * **Question**: What changed?
-> * **Answer**: The Teams In Space logo now appears in the top left, and now the site title, `TIS Jira`, appears near your logo. f. Scroll down to the `Favicon` section.
+> * **Answer**: The Teams In Space logo now appears in the top left, and now the site title, `TIS Jira`, appears near your logo. 
+
+> f. Scroll down to the `Favicon` section.
 * **Note**: Here, you can also update the favicon (the icon that appears in the browser tab). We'll leave it at the default of the Jira icon as it's a handy way for users to see quickly if the tab is Jira or another product such as Confluence.
 > g. Optionally, change the menu colors.
-
+1. Explore apps:
 > i. Scroll down to the `Navigation colors` section.
 
 > ii. Click the color square next to `Background`.

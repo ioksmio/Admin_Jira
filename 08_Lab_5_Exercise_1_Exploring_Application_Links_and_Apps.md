@@ -1,11 +1,12 @@
 ## Lab 5 Exercise 1 Exploring Application Links and Apps
 1. Log in to your cloud site as the Jira administrator, `Dakota Jones`. and switch to your SiteName
-2. Access the Jira Administration pages:
-You can access the Jira Administration pages by either going through the menus or using a shortcut:
-> a. Click the cog icon (Settings) in the menu. Select Apps. Then navigate to the page  `Manage Apps` from the sidebar.
+2. Access the Jira Administration pages and explore apps:
 
-> b. Or, a shortcut is to type . (period) or gg, which will bring up a search dialog, then type the name of the page you want to go to.
-3. Explore apps:
+**Note** You can access the Jira Administration pages by either going through the menus or using a shortcut:
+> * Click the cog icon (Settings) in the menu. Select Apps. Then select the page from the `Manage Apps` sidebar.
+
+> * Or, a shortcut is to type . (period) or gg, which will bring up a search dialog, then type the name of the page you want to go to.
+
 > a. Navigate to the `Manage apps` administration page by clicking the cog icon in the menu then going to `Apps` or by using the . (period) or `gg` shortcut.
 > b. Click the dropdown and select `System`.
 
