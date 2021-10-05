@@ -2,13 +2,13 @@
 ##### 1. To reach the Site Access Page
 > a. Navigate to `https://admin.atlassian.com` 
 
-> b. click on your `jira site name` under `Organisation`
+> b. click on your `SiteName`.
 
 > c. click on `Products` in the top Menu. 
 
-> d. In the Side bar click on the link that is the first part of your `Jira Site Name` 
+> d. In the Side bar click on the link that is the first part of your `SiteName` 
 
-> e. Bookmark this page and save it as `Jira-Site-Settings`
+> e. Bookmark this page and save it as `Jira-Site-Settings`.
 
 > f. then click on `Site access` in the side-bar. 
 
