@@ -6,7 +6,7 @@
 > * Note: Here, you see all the users that are on this site. When you only have a few
 users, you see a simple invite.
 2. Click `Invite users` at the top of the page, which gives you more options:
-> a. Enter the email addresses for `Dakota Jones`, `Mitch Davis`, `Sophie Nguyen`, and `Luis Beck` separated by commas. These emails were provided to you along with your cloud site information. If the above mentioned names have already been invited, click enter an e-mail of your choosing.
+> a. Enter the email addresses for `Dakota Jones`, `Max Taylor`, `Max Davis`, `Sophie Nguyen`, and `Luis Beck` separated by commas. These emails were provided to you along with your cloud site information. If the above mentioned names have already been invited, click enter an e-mail of your choosing.
 > b. Click `add groups` under the Heading Group membership to check what groups you could potentially add the new invitees
 > c. Click to expand `Personalize email invite`.
 > * Note: Here you can add any text to personalize the invitation email that's sent to your invitees.
