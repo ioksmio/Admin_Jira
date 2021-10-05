@@ -51,10 +51,11 @@ But to view issues or work in projects you need to be in a group that has the ap
 > iii. Log out as the current user by clicking their avatar at the bottom of the global sidebar. This method will require a lot of logging in and out!
 6. To simplify the instructions, when you need to log in as another user, we'll tell you to use your incognito window, but use the method that works for you.
 
-> a. Open an incognito window, go to your site bookmark, and log in as `Dakota Jones`. Make sure you click `Jira Software YourName01` - the site assigned to you.
+> a. Open an incognito window, go to your site bookmark, and log in as `Dakota Jones`. Make sure you click the `SiteName` assigned to you.
 
 > b. If you see onboarding screens, skip the questions or select whatever options you like.
-c. If you get prompted to choose navigation, choose `Use improved navigation`.
+
+> c. If you get prompted to choose navigation, choose `Use improved navigation`.
 i. In Jira, click the cog (gear) icon (Settings) in the menu to confirm she still has access to Jira administration.
 ii. Click `Search` then enter return on your keyboard.
 iii. Confirm Dakota can see some Jira issues, so she has Jira product access. 
