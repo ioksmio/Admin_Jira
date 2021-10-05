@@ -15,14 +15,16 @@
 
 ##### Manage product subscriptions:
 > **Note**: The Billing overview page shows you details of your bill. You can get more billing details on the pages listed below Overview on the sidebar.
-1. Click `Manage subscriptions` in the sidebar. Here you see your active subscriptions.
+
+
+1. In the top menu click on `Billing` then on your `SiteName` to reach the Manage Subsriptions Page. Here you see your active subscriptions.
 > * **Question**: What products are on this site (active subscriptions)?
 > * Answer: Only Jira Software is depicted on this site.
 > * **Question** How many are used for the Jira
 Software subscription on this site?
 >* **Answer**: Look at the numbers for Jira Software under Users.
 2. Click Add more Atlassian products at the top of the page. 
-3. Scroll down the `Discover new products`.
+3. Scroll down the `Discover applications`.
 > * **Note**: The Discover new products page is where you can add more Atlassian products to your subscription. You can also add recommended Confluence and Jira apps.
 4. Access product administration:
 > - Scroll to the bottom of the site administration sidebar. You see one link under
