@@ -56,7 +56,11 @@ But to view issues or work in projects you need to be in a group that has the ap
 > b. If you see onboarding screens, skip the questions or select whatever options you like.
 
 > c. If you get prompted to choose navigation, choose `Use improved navigation`.
+
 i. In Jira, click the cog (gear) icon (Settings) in the menu to confirm she still has access to Jira administration.
+
 ii. Click `Search` then enter return on your keyboard.
+
 iii. Confirm Dakota can see some Jira issues, so she has Jira product access. 
+
 iv. Log out as Dakota and minimize the window.
