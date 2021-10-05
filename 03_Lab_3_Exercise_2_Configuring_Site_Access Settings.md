@@ -42,5 +42,5 @@ approved so all users need to request access or be invited.
 > b. Check `Approve any domain`.
  * Note: Site visitors can now immediately create their own accounts. Your site is now public. You can choose whether to get notified every time a new user gets access to your site by checking the 'Notify all site admins when a new user joins with an approved domain' setting. You should consider the number of users your license supports when deciding whether to allow anyone to join your site. 
  * Note: If you check `Approve the following domains` and enter one, then any user with an email address in that domain can join the site. You'll automatically be notified about any new user. 
-> c. Recheck Don't approve any domain. You don't need to save as these are the riginal settings. We'll invite users in the next lab. 
+> c. Now check `Approve following Domains` and enter `s518528723.online.de` in the `Domains` field. We'll invite users in the next lab. 
 Congratulations on completing the lab! 
