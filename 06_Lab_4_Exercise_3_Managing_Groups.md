@@ -1,17 +1,15 @@
 ## Lab 4 Exercise 3 Managing Groups
 1. Create a group and add users:
 
-> a. Navigate to your Atlassian startpage by clicking your saved bookmark `bookmark-startpage Atlassian`
+> a. Navigate to your Atlassian admin page: https://admin.atlassian.com 
 
-> b. Click on the `Administration` button
+> b. Click on your `SiteName`
 
-> c. Click on the link `YourName01.atlassian.net` and Click on `Overview` in the top menu bar. Bookmark this page and save it as `bookmark-Atlassian Admin Overview`
-
-> d. Click `Directory` in the top menu bar
+> c. Click `Directory` in the top menu bar
 
 2. Navigate to the `Groups` in the side bar.
 
-> a. Check the number of licences the `jira-software-users-team` has been assigned
+> a. Check the number of Product access the `jira-software-users-team` has been assigned
 
 > b. Click `Create group`.
 
