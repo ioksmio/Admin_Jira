@@ -1,6 +1,7 @@
 ## Lab 4 Exercise 2 Inviting Users
 1. Navigate to `https://start.atlassian.com` and bookmark this page as `bookmark-startpage atlassian`
 > a. Click the `adminsitration cog (administration button)`
+
 > b. Click the `Manage Users` button
 > * Note: Here, you see all the users that are on this site. When you only have a few
 users, you see a simple invite.
