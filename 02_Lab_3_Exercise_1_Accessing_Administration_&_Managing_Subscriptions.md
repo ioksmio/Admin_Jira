@@ -7,8 +7,10 @@
  3. Once you're logged into Jira, bookmark the page.
  * **Note**: Bookmark this address to save you time later when logging in as other users. It's important you log into the site that's been assigned to you.
  4. To navigate to site administration, click the cog (gear) icon (Settings) in the menu. 
- 5. Select `View site bill` under ATLASSIAN ADMIN.
-6. This opens a new browser window for site administration.
+ 5. Click on your `SiteName (benutzerX)`. 
+ 6. In the top menu click `Products`
+ 7. In the left Bar under `SITES AND PRODUCTS` you can access the Site Administration Pages by clicking on the corresponding icon. 
+
 
 
 ##### Manage product subscriptions:
