@@ -26,9 +26,13 @@ Software subscription on this site?
 2. Click on `Products` at the top of the page and then the click on the button `Add Product`, if you wanted to add further Atlassian Products. If you happened to have clicked the `Add product` button, cancel the operation. Please do not add any products at this point in time.
 
 3. Access product administration:
-> a. Click `Products` on the top menu and then click to the `...` icon beside Jira Software. 
+> a. Click `Products` on the top menu. 
 > 
-> b. In the Menu presented, navigate to the entry `Manage Product Access`
+> b. Search for the `...` on the right hand side of the page. 
+
+> c. Click the `...` button beside the entry `Jira Software` 
+
+> d. In the Menu presented, navigate to the entry `Manage Product Access`
 
 You are now able to Manage the product access.
 
