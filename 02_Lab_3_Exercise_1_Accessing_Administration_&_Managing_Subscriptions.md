@@ -7,7 +7,7 @@
  3. Once you're logged into Jira, bookmark the page.
  * **Note**: Bookmark this address to save you time later when logging in as other users. It's important you log into the site that's been assigned to you.
  4. To navigate to site administration, click the cog (gear) icon (Settings) in the menu. 
- 5. Click on `Cloud Administration` and then click on your `Site-Name (BenutzerX)`
+ 5. Click on `Cloud Administration` and then click on your `SiteName (BenutzerX)`
  6. In the top menu click `Products`
  7. In the left Bar under `SITES AND PRODUCTS` you can access the Site Administration Pages by clicking on the corresponding icon. 
 
@@ -17,7 +17,7 @@
 > **Note**: The Billing overview page shows you details of your bill. You can get more billing details on the pages listed below Overview on the sidebar.
 
 
-1. In the top menu click on `Billing` then on your `SiteName` to reach the Manage Subsriptions Page. Here you see your active subscriptions.
+1. In the top menu click on `Billing`  to reach the Manage Subsriptions Page. Here you see your active subscriptions.
 > * **Question**: What products are on this site (active subscriptions)?
 > * Answer: Only Jira Software is depicted on this site.
 > * **Question** How many are Licences used for the Jira
