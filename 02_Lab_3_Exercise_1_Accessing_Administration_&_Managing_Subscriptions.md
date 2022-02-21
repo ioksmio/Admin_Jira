@@ -30,10 +30,10 @@ Software subscription on this site?
 > 
 > b. Search for the `...` on the right hand side of the page. 
 
-> c. Click the `...` button beside the entry `Jira Software` 
+> c. Click the `...` icon beside the entry `Jira Software` 
 
-> d. In the Menu presented, navigate to the entry `Manage Product Access`
+> d. In the menu presented, navigate to the entry `Manage product access` and click it.
 
-You are now able to Manage the product access.
+You are now able to Manage all issues regarding the product access.
 
 
