@@ -20,7 +20,7 @@
 1. In the top menu click on `Billing`  to reach the Manage Subsriptions Page. Here you see your active subscriptions.
 > * **Question**: What products are on this site (active subscriptions)?
 > * Answer: Only Jira Software is depicted on this site.
-> * **Question** How many are Licences used for the Jira
+> * **Question** How many Licences used for the Jira
 Software subscription on this site?
 >* **Answer**: Look at the numbers for Jira Software under Users.
 2. Click Add more Atlassian products at the top of the page. 
