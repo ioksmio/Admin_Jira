@@ -23,13 +23,11 @@
 > * **Question** How many Licences used for the Jira
 Software subscription on this site?
 >* **Answer**: Look at the numbers for Jira Software under Users.
-2. Click Add more Atlassian products at the top of the page. 
-3. Scroll down the `Discover applications`.
-> * **Note**: The Discover new products page is where you can add more Atlassian products to your subscription. You can also add recommended Confluence and Jira apps.
-4. Access product administration:
-> - Scroll to the bottom of the site administration sidebar. You see one link under
-`APPLICATION SETTINGS` - for Jira.
-> - Click `Jira`.
-> - This opens a new browser window showing Jira product administration. Note the Jira icon in the menu. Close the tab.
+2. Click on `Products` at the top of the page and then the click on the button `Add Product`, if you wanted to add further Atlassian Products. If you happened to have clicked the `Add product` button, cancel the operation. Please do not add any products at this point in time.
+
+3. Access product administration:
+> a. Click `Products` on the top menu and then click to the `...` icon beside Jira Software. 
+> b. In the Menu presented, navigate to the entry `Manage Product Access`
+You are now able to Manage the product access.
 
 
