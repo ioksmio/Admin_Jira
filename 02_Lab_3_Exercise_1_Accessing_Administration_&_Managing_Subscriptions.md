@@ -27,7 +27,9 @@ Software subscription on this site?
 
 3. Access product administration:
 > a. Click `Products` on the top menu and then click to the `...` icon beside Jira Software. 
+> 
 > b. In the Menu presented, navigate to the entry `Manage Product Access`
+
 You are now able to Manage the product access.
 
 
