@@ -4,12 +4,9 @@
 3. Navigate to the `Users` site administration page and click to view `Max Taylor`. Review his account settings to find and fix the problem.
 * **Question**: Does he have access on the site?
 * **Answer**: No, he doesn't have access to the site.
-4. Click the button next to `Has access on the site` so it shows green.
-* **Question**: Max now has access to the site but will he be able to access the products?
-* **Answer**: Max can't access the products because he doesn't have product access. 
-5. Under Access, click each of the three product buttons to give him access to `Jira Service Management`, `Jira Software`, and `Confluence`. Note that the default product access groups are now added under Groups at the bottom of the page. (If you cannot click the product buttons, ensure his Role is Basic and not Trusted.)
-* **Note**: It's easy to revoke and restore site access by simply clicking the Has access
-on site button. You can leave the products checked but once you remove site access the user can't log in and they will no longer consume any product licenses. This can be useful for users such as contractors who are used regularly but you don't want to give them continuous access. You can simply restore their site access when they return and they are given access to the products they need.
+4. Check the products listed in his profile.
+5. Click the Add products button to add Jira Software to his account. You can add other products as well.
+* **Note**: It's easy to revoke and restore site access by simply clicking the ... beside a product and then click on Remove product access. To restore access you just add the product back to the user. You can leave the products checked but once you remove site access the user can't log in and they will no longer consume any product licenses. This can be useful for users such as contractors who are used regularly but you don't want to give them continuous access. You can simply restore their site access when they return and they are given access to the products they need.
 6. Click the three dots at the top right of Max's account page.
 a. Note, but don't click, the option to remove the user.
 b. Don't remove Max but this is where you would do so if you needed to remove a user.

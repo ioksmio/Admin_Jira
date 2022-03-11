@@ -6,15 +6,11 @@
 
 > c. click on `Products` in the top Menu. 
 
-> d. In the Side bar click on the link that is the first part of your `SiteName` 
-
-> e. Bookmark this page and save it as `Jira-Site-Settings`.
-
-> f. then click on `Site access` in the side-bar. 
+> d. then click on User access settings
 
 
 ##### 2. Generate an invitation URL:
-> a. Click `Invite links`
+> a. Click `Invitation links`
  
 > b. Click the button next to Jira Software (if it's not already enabled). 
  * Note: You can copy this URL and send it to anyone so they can get access to a product quickly. 
