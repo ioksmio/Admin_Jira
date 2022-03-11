@@ -11,8 +11,8 @@
  6. In the top menu click `Products`
  7. In the left Bar under `SITES AND PRODUCTS` you can access the Site Administration Pages by clicking on the corresponding icon. 
 
-
-
+Eine kleine Veränderung.
+.
 ##### Manage product subscriptions:
 > **Note**: The Billing overview page shows you details of your bill. You can get more billing details on the pages listed below Overview on the sidebar.
 
