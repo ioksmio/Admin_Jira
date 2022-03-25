@@ -41,6 +41,8 @@ Jira also adds the system-administrators and atlassian-addons-admin groups to ea
 
 4. Optionally, verify global permission change:
 
+Create three new issues with the following summaries: Issue1, Issue2, Issue 3 before proceeding.
+
 > a. Click `Search` and press `Return` on your keyboard. You will see a search page depicted. 
 
 > b. On the issue navigator, click the three dots on the top right of the page. You should see an option for `Bulk change`. This confirms Jira administrators have the ability to perform bulk change operations.
