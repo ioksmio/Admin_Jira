@@ -24,4 +24,5 @@ dropdown but don't change the setting.
 6. To grant or deny product access requests 
 >* a. Click `SiteName` in the Side Bar `Access requests`(This shows which users have requested access to which product.
 >* b. Click `Site Access`
+>* c. Click on the button `Take me there`
 * **Note**: Here you can grant or deny product access requests from users. A teammate may have sent them the product URL but your site settings don't allow them to self- signup. In that case, they'll see a button to request access when they try to access your site.
